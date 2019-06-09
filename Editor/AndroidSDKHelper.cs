@@ -5,7 +5,7 @@
  * of the MIT license.  See the LICENSE file for details.
  */
 
-#if UNITY_ANDROID && UNITY_EDITOR
+#if PLATFORM_ANDROID
 using System;
 using System.Diagnostics;
 using System.IO;
