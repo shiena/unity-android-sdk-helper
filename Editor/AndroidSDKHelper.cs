@@ -103,6 +103,7 @@ public static class AndroidSDKHelper
 		var scriptFile = Path.GetTempFileName();
 		var contents = new[]
 		{
+			"#!/bin/sh",
 			string.Format("PATH=\"{0}:$PATH\" /bin/bash --login", androidPlatformTools)
 		};
 		CreateScript(scriptFile, contents);
@@ -139,6 +140,7 @@ public static class AndroidSDKHelper
 		var scriptFile = Path.GetTempFileName();
 		var contents = new[]
 		{
+			"#!/bin/sh",
 			string.Format("PATH=\"{0}:$PATH\" JAVA_HOME=\"{1}\" /bin/bash --login", androidSdkTools, jdkPath)
 		};
 		CreateScript(scriptFile, contents);
