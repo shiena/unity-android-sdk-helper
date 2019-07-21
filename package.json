@@ -6,7 +6,7 @@
         "sdk",
         "android"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2018.1",
     "description": "Android SDK Helper"
 }

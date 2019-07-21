@@ -9,7 +9,7 @@
 ```
 {
   "dependencies": {
-    "com.github.shiena.androidsdkhelper": "https://github.com/shiena/unity-android-sdk-helper.git#1.0.0"
+    "com.github.shiena.androidsdkhelper": "https://github.com/shiena/unity-android-sdk-helper.git#1.0.1"
   }
 }
 ```
