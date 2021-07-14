@@ -1,8 +1,27 @@
 # unity-android-sdk-helper
+[![openupm](https://img.shields.io/npm/v/com.shiena.androidsdkhelper?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.shiena.androidsdkhelper/)
 
 ![AndroidSDKHelper](Documentaition~/AndroidSDKHelper.png)
 
 ## Installation
+
+<details>
+<summary>Add from OpenUPM <em>| via scoped registry, recommended</em></summary>
+
+To add OpenUPM to your project:
+
+- open `Edit/Project Settings/Package Manager`
+- add a new Scoped Registry:
+```
+Name: OpenUPM
+URL:  https://package.openupm.com/
+Scope(s): com.shiena
+```
+- click <kbd>Save</kbd>
+- open Package Manager
+- Select ``My Registries`` in dropdown top left
+- Select ``Android SDK Helper`` and click ``Install``
+</details>
 
 <details>
 <summary>Add from GitHub | <em>not recommended, no updates through PackMan</em></summary>
