@@ -2,17 +2,20 @@
 
 ![AndroidSDKHelper](Documentaition~/AndroidSDKHelper.png)
 
-## installation
+## Installation
 
+<details>
+<summary>Add from GitHub | <em>not recommended, no updates through PackMan</em></summary>
+
+You can also add it directly from GitHub on Unity 2019.4+. Note that you won't be able to receive updates through Package Manager this way, you'll have to update manually.
+
+- open Package Manager
+- click <kbd>+</kbd>
+- select <kbd>Add from Git URL</kbd>
+- paste `https://github.com/shiena/unity-android-sdk-helper.git#1.0.2`
+- click <kbd>Add</kbd>
+</details>
 <https://docs.unity3d.com/Packages/com.unity.package-manager-ui@2.1/manual/index.html>
-
-```
-{
-  "dependencies": {
-    "com.github.shiena.androidsdkhelper": "https://github.com/shiena/unity-android-sdk-helper.git#1.0.1"
-  }
-}
-```
 
 ## Usage
 
