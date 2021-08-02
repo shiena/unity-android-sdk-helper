@@ -1,12 +1,17 @@
 {
-    "name": "com.shiena.androidsdkhelper",
-    "author": "Koga Mitsuhiro <shiena.jp@gmail.com>",
-    "displayName": "Android SDK Helper",
-    "keywords": [
-        "sdk",
-        "android"
-    ],
-    "version": "1.0.2",
-    "unity": "2018.1",
-    "description": "Android SDK Helper"
+  "name": "com.shiena.androidsdkhelper",
+  "version": "1.0.2",
+  "displayName": "Android SDK Helper",
+  "description": "Android SDK Helper",
+  "unity": "2018.1",
+  "documentationUrl": "https://github.com/shiena/unity-android-sdk-helper",
+  "licensesUrl": "https://github.com/shiena/unity-android-sdk-helper/blob/master/LICENSE.md",
+  "keywords": [
+    "sdk",
+    "android"
+  ],
+  "author": {
+    "name": "KOGA Mitsuhiro",
+    "url": "https://github.com/shiena"
+  }
 }
